@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background: #F2F2F2;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     height: 100vh;
 }
 
@@ -46,4 +46,6 @@ li.b {
 a.b {
     font-size: 1em;
     font-weight: 300;
+    text-decoration: none;
+    color: #00A8FF;
 }
